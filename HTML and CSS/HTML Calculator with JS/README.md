@@ -50,16 +50,16 @@ This calculator allows users to perform basic arithmetic operations such as addi
 ---
 
 ## 📁 Project Structure
-
-Project-Based-Learning/
-│
-├── HTML/
-│ └── Calculator.html # Main calculator HTML file
-│
-├── CSS/
-│ └── Calculator.css # Styling for the calculator
-│
-├── JS/
-│ └── Calculator.js # JavaScript logic
-│
-└── README.md # Project description
+<br>
+Project-Based-Learning/<br>
+│<br>
+├── HTML/<br>
+│ └── Calculator.html # Main calculator HTML file<br>
+│<br>
+├── CSS/<br>
+│ └── Calculator.css # Styling for the calculator<br>
+│<br>
+├── JS/<br>
+│ └── Calculator.js # JavaScript logic<br>
+│<br>
+└── README.md # Project description<br>
