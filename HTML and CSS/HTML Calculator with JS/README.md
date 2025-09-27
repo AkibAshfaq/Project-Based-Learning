@@ -4,7 +4,8 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It features a
 
 ---
 
-![Alt text describing the image](Assets/Calculator.png)
+<img src="Assets/Calculator.png" alt="Calculator Screenshot" width="400" />
+
 
 
 ## 🚀 Live Demo
