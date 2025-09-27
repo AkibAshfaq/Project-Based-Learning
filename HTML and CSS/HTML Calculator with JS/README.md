@@ -1,43 +1,65 @@
-<html>
-    <head>
+# 🔢 HTML Calculator with JavaScript
 
-    </head>
-    <body>
-        <center>
-        <iframe src="HTML/Calculator.html" style="width:50%; height:600px; border:none;"></iframe>
-        </center>
-        <br>
-        <h1>HTML Calculator with JS</h1>
-        <h3>Project Description</h3>
-        <p>This is a simple calculator built using HTML, CSS, and JavaScript. It features a user-friendly interface and basic arithmetic operations such as addition, subtraction, multiplication, and division.</p>
-        <h3>Features</h3>
-        <ul>
-            <li>Basic arithmetic operations: addition, subtraction, multiplication, and division.</li>
-            <li>Clear (AC) button to reset the calculator.</li>
-            <li>Percentage (%) button for percentage calculations.</li>
-            <li>Decimal point (.) support for floating-point numbers.</li>
-            <li>Responsive design for various screen sizes.</li>
-        </ul>
-        <h3>Technologies Used</h3>
-        <ul>
-            <li>HTML5 for structuring the calculator interface.</li>
-            <li>CSS3 for styling and layout.</li>
-            <li>JavaScript for implementing calculator functionality and interactivity.</li>
-        </ul>
-        <h3>How to Use</h3>
-        <ol>
-            <li>Open the HTML file in a web browser.</li>
-            <li>Click on the buttons to input numbers and perform calculations.</li>
-            <li>The result will be displayed on the screen.</li>
-            <li>Use the AC button to clear the current input and start a new calculation.</li>
-            <li>Use the % button to calculate percentages.</li>
-            <li>Use the . button to input decimal numbers.</li>
-        </ol>
-        <h3>Project Structure</h3>
-        <ul>
-            <li><strong>HTML/Calculator.html</strong>: The main HTML file containing the calculator structure.</li>
-            <li><strong>CSS/Calculator.css</strong>: The CSS file for styling the calculator.</li>
-            <li><strong>JS/Calculator.js</strong>: The JavaScript file implementing the calculator's functionality.</li>
-        </ul>
-</body>
-</html>
+This is a simple calculator built using HTML, CSS, and JavaScript. It features a clean interface and supports basic arithmetic operations.
+
+---
+
+## 🚀 Live Demo
+
+<!-- Uncomment and update the URL below once you enable GitHub Pages -->
+<!-- [👉 View Calculator Live](https://your-username.github.io/your-repo-name/) -->
+
+Or [📂 click here to open the calculator file directly](HTML/Calculator.html)
+
+---
+
+## 📝 Project Description
+
+This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It has a responsive design and is built with beginner-friendly code.
+
+---
+
+## ✨ Features
+
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+- 🔄 Clear (AC) button to reset inputs
+- 📉 Percentage (%) button for calculations
+- 🔢 Decimal support for floating-point numbers
+- 📱 Responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the calculator
+- **CSS3** – Styling and layout
+- **JavaScript** – Functionality and interactivity
+
+---
+
+## 📌 How to Use
+
+1. Clone the repository or download the ZIP
+2. Open `HTML/Calculator.html` in your browser
+3. Click the buttons to perform calculations
+4. Use:
+   - `AC` to clear
+   - `%` for percentage
+   - `.` for decimal numbers
+
+---
+
+## 📁 Project Structure
+
+Project-Based-Learning/
+│
+├── HTML/
+│ └── Calculator.html # Main calculator HTML file
+│
+├── CSS/
+│ └── Calculator.css # Styling for the calculator
+│
+├── JS/
+│ └── Calculator.js # JavaScript logic
+│
+└── README.md # Project description
