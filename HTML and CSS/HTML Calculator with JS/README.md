@@ -4,6 +4,9 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It features a
 
 ---
 
+![Alt text describing the image](Assets/Calculator.png)
+
+
 ## 🚀 Live Demo
 
 <!-- Uncomment and update the URL below once you enable GitHub Pages -->
