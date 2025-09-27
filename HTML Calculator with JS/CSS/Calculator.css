@@ -1,0 +1,124 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+.calculater {
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    max-width: 360px;
+    overflow: hidden;
+    background-color: #ffffff;
+    margin: 20px;
+}
+
+
+.keypad {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 10px;
+    gap: 1px; 
+    background-color: #e8e8e8;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.display {
+    background-color: #ffffff;
+    color: #333333;
+    height: 80px;
+    padding: 10px 25px;
+    font-size: 3em;
+    text-align: right;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    overflow-x: auto; 
+    white-space: nowrap;
+    min-width: 310px;
+    font-weight: 300;
+}
+
+.display:hover {
+    background-color: #f9f9f9;
+}
+
+button {
+    background-color: #f7f7f7;
+    color: #1e1e1e;
+    border: none;
+    padding: 20px 10px;
+    font-size: 1.6em;
+    cursor: pointer;
+    border-radius: 0;
+    transition: background-color 0.1s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1 / 1;
+    
+}
+
+button:hover {
+    background-color: #ededed;
+}
+
+button:active {
+    background-color: #e0e0e0;
+    transform: none;
+}
+
+.control {
+    background-color: #f0f0f0; 
+    color: #4CAF50;
+    font-weight: 500;
+}
+
+.control:hover {
+    background-color: #e5e5e5;
+}
+
+.control:active {
+    background-color: #dbdbdb;
+}
+
+.operation {
+    background-color: #f0f0f0; 
+    color: #4CAF50;
+    font-weight: 500;
+}
+
+.operation:hover {
+    background-color: #e5e5e5;
+}
+
+.operation:active {
+    background-color: #dbdbdb;
+}
+
+.zero {
+    grid-column: span 2;
+    justify-content: flex-start;
+    padding-left: 10%;
+    aspect-ratio: unset;
+}
+
+.equal {
+    background-color: #4CAF50; 
+    color: #ffffff; 
+    font-weight: 600;
+}
+
+.equal:hover {
+    background-color: #5cb85c;
+}
+
+.equal:active {
+    background-color: #439543;
+}
