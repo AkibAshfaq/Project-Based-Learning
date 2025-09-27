@@ -11,7 +11,7 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It features a
 ## 🚀 Live Demo
 
 <!-- Uncomment and update the URL below once you enable GitHub Pages -->
-<!-- [👉 View Calculator Live](https://your-username.github.io/your-repo-name/) -->
+[👉 View Calculator Live](https://akibashfaq.github.io/HTML-Calculator-With-JS/)
 
 Or [📂 click here to open the calculator file directly](HTML/Calculator.html)
 
