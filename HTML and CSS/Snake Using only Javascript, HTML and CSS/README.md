@@ -1,10 +1,10 @@
 # Snake Game 🐍
 
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;"> 
-    <img src="Assets/OpeningScreen.png" alt="Game Start Screen" width="150" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); animation: fadeIn 1s ease forwards;"/> 
-    <img src="Assets/PlayingGme.png" alt="Gameplay Screenshot" width="150" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); animation: fadeIn 1.3s ease forwards;"/> 
-    <img src="Assets/GameOver.png" alt="Game Over Screen" width="150" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); animation: fadeIn 1.6s ease forwards;"/> 
-    </div> 
+<div style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; padding: 20px 0;">
+  <img src="Assets/OpeningScreen.png" alt="Game Start Screen" width="250" style="border-radius: 8px; box-shadow: 0 6px 15px rgba(0,0,0,0.25); animation: fadeIn 1s ease forwards;" />
+  <img src="Assets/PlayingGme.png" alt="Gameplay Screenshot" width="250" style="border-radius: 8px; box-shadow: 0 6px 15px rgba(0,0,0,0.25); animation: fadeIn 1.3s ease forwards;" />
+  <img src="Assets/GameOver.png" alt="Game Over Screen" width="250" style="border-radius: 8px; box-shadow: 0 6px 15px rgba(0,0,0,0.25); animation: fadeIn 1.6s ease forwards;" />
+</div>
 
 ---
 
