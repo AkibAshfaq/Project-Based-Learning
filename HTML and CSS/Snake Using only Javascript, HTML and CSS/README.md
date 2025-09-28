@@ -5,10 +5,7 @@
     <img src="Assets/PlayingGme.png" alt="Gameplay Screenshot" width="150" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); animation: fadeIn 1.3s ease forwards;"/> 
     <img src="Assets/GameOver.png" alt="Game Over Screen" width="150" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); animation: fadeIn 1.6s ease forwards;"/> 
     </div> 
-    <style> 
-    @keyframes fadeIn { from {opacity: 0; transform: translateY(10px);} to {opacity: 1; transform: translateY(0);} } 
-    </style>
-    
+
 ---
 
 ## Demo
