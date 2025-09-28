@@ -11,7 +11,7 @@
 ## Demo
 
 Check out the live demo here:  
-[![Play Snake Game](https://img.shields.io/badge/Play-Demo-brightgreen?style=for-the-badge&logo=appveyor)](https://your-demo-link.com)
+[![Play Snake Game](https://akibashfaq.github.io/Snake-Game-With-JS/)
 
 ## Description
 
@@ -33,13 +33,13 @@ Enjoy smooth gameplay, responsive design, and interactive UI elements, wrapped i
 ---
 
 ## File Layout
-
-├── index.html # Main HTML file with game UI
-├── CSS
-│ └── snake.css # Styling for game layout and animations
-└── JS
-└── snake.js # JavaScript game logic and canvas rendering
-
+<br>
+├── index.html # Main HTML file with game UI<br>
+├── CSS<br>
+│ └── snake.css # Styling for game layout and animations<br>
+└── JS<br>
+└── snake.js # JavaScript game logic and canvas rendering<br>
+<br>
 
 ---
 
@@ -49,13 +49,7 @@ Enjoy smooth gameplay, responsive design, and interactive UI elements, wrapped i
 - **CSS3** — Flexbox layout, animations, gradients, shadows
 - **JavaScript** — Game logic, event handling, canvas drawing
 
----
+## Follow this
 
-## Download & Usage
-
-Download or clone the repository:
-
-```bash
-git clone https://github.com/yourusername/snake-game.git
-
-
+This project was done by following the amazing tutorials from [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file).  
+Be sure to check out their repository for many other awesome project ideas and guides!
